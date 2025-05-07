@@ -10,8 +10,10 @@ This project is a **multi-page** food recipe website built using **HTML5** and *
 - ✅ Clean and understandable code  
 - ✅ Placeholder for GIF preview (see below)  
 
-## 📌 Notes
-This project was developed for educational purposes. The design adheres to modern web standards and accessibility principles.
 
 # Preview
 ![FOOD-WEBSTE-ezgif com-optimize](https://github.com/user-attachments/assets/cb44fc1c-a869-462a-bacf-1c0fa78bb458)
+
+---
+ ## 📌 Notes
+This project was developed for educational purposes. The design adheres to modern web standards and accessibility principles.
