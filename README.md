@@ -16,4 +16,4 @@ This project is a **multi-page** food recipe website built using **HTML5** and *
 
 ---
  ## 📌 Notes
-This project was developed for educational purposes. The design adheres to modern web standards and accessibility principles.
+ The design adheres to modern web standards and accessibility principles.
